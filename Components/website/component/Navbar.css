@@ -1,0 +1,16 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(88, 96, 104);
+    color: white;
+}
+.logo{
+    margin-left: 20px;
+    padding: 10px;
+}
+ul{
+    display: flex;
+    gap: 15px;
+    margin-right: 20px;
+    padding: 10px;
+}
